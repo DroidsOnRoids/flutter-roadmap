@@ -1,0 +1,12 @@
+name: channels
+description: A solution to the first excerise about method channels.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  async: ^2.4.1
