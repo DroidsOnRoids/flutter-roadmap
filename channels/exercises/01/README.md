@@ -1,0 +1,1 @@
+This is an exercise for the most basic communication between Flutter and native platforms using message channels. Your task is to implement `Greeter` interface using message channels and use it in the application. The channel implementation should have the same output for `iOS` and `Android` as the `_NonChannelGreeter` class.
