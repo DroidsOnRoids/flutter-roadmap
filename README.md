@@ -8,8 +8,6 @@
 > Every node has description, links to documentation, tutorails, videos and also exercises to get practical knowledge.
 
 ## Roadmap
- 
-
 ![Flutter Developer Roadmap](./img/roadmap_2020.png)
 
 ## Table of contents
