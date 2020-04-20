@@ -1,6 +1,19 @@
 # Flutter Developer Roadmap 2020
 
+## Purpose
+ > The purpose of this roadmap is to help beginners to become a complete Flutter Developers and also to help skilled developers to improve their knowledge.
+
+## How it works
+> Roadmap shows main topics of Flutter development. Every topic is divided into smaller ones which creates a tree.
+> Every node has a description, links to documentation, tutorials, videos and often exercises to get practical knowledge.
+
+## Roadmap
 ![Flutter Developer Roadmap](./img/roadmap_2020.png)
+
+## Table of contents
+
+1. Warm-up
+   1. [Command line exercises](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/flutter_cli/exercises)
 
 ## License
 
