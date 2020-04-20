@@ -13,7 +13,8 @@
 ## Table of contents
 
 1. Warm-up
-   1. [Command line exercises](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/flutter_cli/exercises)
+   1. [Flutter installation](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/flutter_cli/flutter_install.md)
+   2. [Command line exercises](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/flutter_cli/exercises)
 
 ## License
 
