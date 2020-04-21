@@ -3,6 +3,7 @@
 /// Uncomment main function and run app.
 
 Future<void> main() async {
+  print('Loading message...');
 //  String message = await _fetchMessage();
 //  print(message);
 }

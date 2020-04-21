@@ -1,9 +1,7 @@
 import 'dart:math';
 
-/// Change `randomProfileData' to return data after 2s delay.
-/// Change `generateProfileData` to return Future.
-/// Refactor rest of the methods.
-/// Run app, app should print random name and last name after delay.
+/// Change `randomProfileData' to return a data after 2s delay.
+/// Run the app. It should print random name and last name after a delay.
 
 void main() {
   print('Loading profile data...');
