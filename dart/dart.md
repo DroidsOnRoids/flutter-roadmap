@@ -18,10 +18,7 @@ It is optimized for building user interfaces.
   
   Useful links:
   * [Codelabs](https://dart.dev/codelabs/async-await)
-  
-  Exercises:
-  * [Exercise]() <!-- TODO Add exercise link -->
-  * [Solution]() <!-- TODO Add solution link -->
+  * [Exercises](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/dart/stdlib/Future/exercises.md)
   ---
 * [Stream](https://api.flutter.dev/flutter/dart-async/Stream-class.html) - provides a way to receive a sequence of events. Each event is either a data event or an error event.  
   
