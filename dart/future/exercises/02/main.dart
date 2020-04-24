@@ -1,9 +1,5 @@
 import 'dart:math';
 
-/// Change `randomProfileData' to return a data after 2s delay.
-/// Run `dart exercise_2.dart` in terminal and check results. 
-/// It should print random name and last name after a delay.
-
 void main() {
   print('Loading profile data...');
   print(generateProfileData());

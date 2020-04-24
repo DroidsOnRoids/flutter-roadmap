@@ -15,7 +15,7 @@
 1. Warm-up
    1. [Flutter installation](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/flutter_cli/flutter_install.md)
       1. [Command line exercises](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/flutter_cli/exercises)
-   2. [Dart language](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/dart/dart.md)
+   2. [Dart language](https://github.com/DroidsOnRoids/flutter-roadmap/blob/master/dart)
 
 ## License
 

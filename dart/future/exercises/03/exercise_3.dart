@@ -1,9 +1,5 @@
 import 'dart:math';
 
-/// Handle situation when `_fetchMessage` method completes with error.
-/// Print `Ups! Something went wrong.` on error and message value on success.
-/// Run `dart exercise_3.dart` in terminal couple of times and check success and error cases.
-
 void main() {
   print('Loading message...');
 
