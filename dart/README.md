@@ -34,7 +34,7 @@ It is optimized for building user interfaces.
   * [Exercise]() <!-- TODO Add exercise link -->
   * [Solution]() <!-- TODO Add solution link -->
   ---
-* [dart:isolates](https://api.dart.dev/stable/2.7.2/dart-isolate/dart-isolate-library.html) - independent workers that are similar to threads but don't share memory, communicating only via messages.
+* [dart:isolates](https://api.dart.dev/stable/2.7.2/dart-isolate/dart-isolate-library.html) - independent workers that are similar to threads but don't share memory, and communicate only via messages.
   
   Useful links:
   * [Dart asynchronous programming](https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a)
