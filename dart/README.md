@@ -14,15 +14,7 @@ It is optimized for building user interfaces.
 ## Language overview
 ---
 ### stdlib
-* [Future](https://api.dart.dev/stable/2.7.2/dart-async/Future-class.html) - represents value or error, that will be available in the future. To handle received value or error, receivers register to Future's callback.
-  
-  Useful links:
-  * [Codelabs](https://dart.dev/codelabs/async-await)
-  
-  Exercises:
-  * [Exercise]() <!-- TODO Add exercise link -->
-  * [Solution]() <!-- TODO Add solution link -->
-  ---
+* [Future](https://github.com/DroidsOnRoids/flutter-roadmap/tree/master/dart/future)
 * [Stream](https://api.flutter.dev/flutter/dart-async/Stream-class.html) - provides a way to receive a sequence of events. Each event is either a data event or an error event.  
   
   Useful links:
