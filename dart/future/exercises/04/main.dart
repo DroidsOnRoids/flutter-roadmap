@@ -7,20 +7,17 @@ Future<void> main() async {
   print(message);
 }
 
-Future<String> _fetchMessageFirstPart() =>
-    Future.delayed(
+Future<String> _fetchMessageFirstPart() => Future.delayed(
       Duration(seconds: 2),
-          () => "Dart",
+      () => "Dart",
     );
 
-Future<String> _fetchMessageSecondPart() =>
-    Future.delayed(
+Future<String> _fetchMessageSecondPart() => Future.delayed(
       Duration(seconds: 1),
-          () => "is",
+      () => "is",
     );
 
-Future<String> _fetchMessageThirdPart() =>
-    Future.delayed(
+Future<String> _fetchMessageThirdPart() => Future.delayed(
       Duration(seconds: 3),
-          () => "easy!",
+      () => "easy!",
     );
