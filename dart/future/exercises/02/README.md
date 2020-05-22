@@ -5,4 +5,8 @@
 Change `randomProfileData` to return data after 2s delay.  
 Run `dart main.dart` in terminal and check results.  
 
-It should print random name and last name after a delay.
+Terminal output after a few seconds:  
+```shell
+Loading message...
+Dart is easy
+```
