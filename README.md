@@ -2,10 +2,15 @@
 
 ## Purpose
  > The purpose of this roadmap is to help beginners to become a complete Flutter Developers and also to help skilled developers to improve their knowledge.
+ 
+## Who did this
+> This Roadmap is an initiative of developers from Droids On Roids – mobile and web app development company. Everyone is invited to contribute. 
+Check out our article series: Flutter app development tutorial for beginners.
+
 
 ## How it works
-> Roadmap shows main topics of Flutter development. Every topic is divided into smaller ones which creates a tree.
-> Every node has a description, links to documentation, tutorials, videos and often exercises to get practical knowledge.
+> The roadmap shows the main topics of Flutter development. Every topic is divided into smaller ones that create a tree. Every node has a description, links to documentation, tutorials, videos, and often exercise to get practical knowledge.
+
 
 ## Roadmap
 ![Flutter Developer Roadmap](./img/roadmap_2020.png)
