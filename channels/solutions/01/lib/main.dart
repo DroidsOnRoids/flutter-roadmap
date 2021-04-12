@@ -23,7 +23,7 @@ class _NonChannelGreeter implements Greeter {
 }
 
 class _ChannelGreeter implements Greeter {
-  final _channel = BasicMessageChannel<String>('greeter', StringCodec());
+  final _channel = BasicMessageChannel<String?>('greeter', StringCodec());
 
   @override
   Future<String> greet(String text) async => '$text ${await _channel.send(text)}!';

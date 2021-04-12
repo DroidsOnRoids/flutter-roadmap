@@ -59,7 +59,7 @@ class _GreeterScreenState extends State<_GreeterScreen> {
     setState(() => platformGreeting = recognizedPlatform);
   }
 
-  void runTask(Future<Object> task) {
+  void runTask(Future<void> task) {
     pendingOperations.add(CancelableOperation.fromFuture(task));
   }
 
