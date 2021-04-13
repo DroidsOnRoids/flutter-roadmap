@@ -1,4 +1,4 @@
-# Flutter Developer Roadmap 2020
+# Flutter Developer Roadmap 2021
 
 ## Purpose
  > The purpose of this roadmap is to help beginners to become a complete Flutter Developers and also to help skilled developers to improve their knowledge.
@@ -13,7 +13,7 @@ Check out our article series: [Flutter app development tutorial for beginners](h
 
 
 ## Roadmap
-![Flutter Developer Roadmap](./img/roadmap_2020.png)
+![Flutter Developer Roadmap](./img/roadmap.png)
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ Check out our article series: [Flutter app development tutorial for beginners](h
 
 ## License
 
-    Copyright 2020 Droids on Roids
+    Copyright 2021 Droids on Roids
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
